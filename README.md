@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @St1viG
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React and Tailwind
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: stevan.gnjato@gmail.com
 
